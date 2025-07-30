@@ -171,7 +171,7 @@ A message will be posted in Teams like:
 
 ## 🎥 Video Link
 
-Watch the project demo here: [Click to Watch Demo](https://your-video-link.com)
+Watch the project demo here: [https://your-video-link.com](https://youtu.be/NDcfRxa7LfQ)
 
 
 ## 🧹 Cleanup
